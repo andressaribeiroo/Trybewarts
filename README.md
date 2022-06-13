@@ -9,9 +9,11 @@ O projeto foi criado enquanto estudante de Desenvolvimento web Trybe, durante o 
 
 ## Demonstração
 
+<img src="./images/Projeto.gif" />
 
 
 ## 🚀Tecnologias e Ferramentas utilizadas:
+
 <h1 align='left'>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
